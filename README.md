@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheNuggetIsHere
+- I am a game dev
+- im nuts
